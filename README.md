@@ -1,1 +1,1 @@
-# polyamorygame
+# Polycule
